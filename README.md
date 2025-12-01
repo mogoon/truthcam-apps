@@ -47,7 +47,7 @@ Desktop client for photo registration and management.
 
 | Platform | Download |
 |----------|----------|
-| iOS | [App Store](https://apps.apple.com/app/truthcam/id6738970953) |
+| iOS | [App Store](https://apps.apple.com/app/truthcam-%ED%83%80%EC%9E%84%EC%8A%A4%ED%83%AC%ED%94%84/id6753902855) |
 | Android | Coming soon |
 
 ---
