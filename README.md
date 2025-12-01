@@ -52,14 +52,15 @@ If you see an "unidentified developer" warning on macOS:
 
 ## TruthDesk
 
-사진 등록 및 관리를 위한 데스크탑 클라이언트입니다.
+사진 등록 및 관리를 위한 클라이언트입니다.
 
-Desktop client for photo registration and management.
+Client for photo registration and management.
 
 ### Downloads
 
 | Platform | Download | Requirements |
 |----------|----------|--------------|
+| iOS | Coming soon | - |
 | macOS | Coming soon | - |
 | Windows | Coming soon | - |
 
