@@ -62,7 +62,6 @@ Client for photo registration and management.
 |----------|----------|--------------|
 | iOS | Coming soon | - |
 | macOS | Coming soon | - |
-| Windows | Coming soon | - |
 
 ---
 
