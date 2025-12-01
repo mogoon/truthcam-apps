@@ -16,9 +16,9 @@ Batch verification tool for verifying multiple photos at once.
 
 | Platform | Download | Requirements |
 |----------|----------|--------------|
-| macOS (Apple Silicon) | [TruthScan_0.1.0_aarch64.dmg](https://github.com/mogoon/truthcam-apps/releases/download/truthscan-v0.1.0/TruthScan_0.1.0_aarch64.dmg) | macOS 11+ |
-| macOS (Intel) | [TruthScan_0.1.0_x64.dmg](https://github.com/mogoon/truthcam-apps/releases/download/truthscan-v0.1.0/TruthScan_0.1.0_x64.dmg) | macOS 11+ |
-| Windows | [TruthScan_0.1.0_x64-setup.exe](https://github.com/mogoon/truthcam-apps/releases/download/truthscan-v0.1.0/TruthScan_0.1.0_x64-setup.exe) | Windows 10+ |
+| macOS (Apple Silicon) | [TruthScan_0.1.0_aarch64.dmg](https://github.com/mogoon/truthcam-apps/releases/download/truthscan-v0.1.1/TruthScan_0.1.0_aarch64.dmg) | macOS 11+ |
+| macOS (Intel) | [TruthScan_0.1.0_x64.dmg](https://github.com/mogoon/truthcam-apps/releases/download/truthscan-v0.1.1/TruthScan_0.1.0_x64.dmg) | macOS 11+ |
+| Windows | [TruthScan_0.1.0_x64-setup.exe](https://github.com/mogoon/truthcam-apps/releases/download/truthscan-v0.1.1/TruthScan_0.1.0_x64-setup.exe) | Windows 10+ |
 
 ### Features
 - 폴더 단위 일괄 검증 / Batch verification by folder
