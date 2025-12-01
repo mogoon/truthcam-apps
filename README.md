@@ -1,8 +1,10 @@
 # TruthCam Apps
 
-블록체인 기반 사진 진위 검증 서비스 TruthCam의 데스크탑 애플리케이션입니다.
+## TruthCam이란? / What is TruthCam?
 
-Blockchain-based photo verification desktop applications by TruthCam.
+TruthCam은 블록체인 기반 타임스탬프 사진/동영상 촬영 앱입니다. 촬영 즉시 해시값을 블록체인에 기록하여 원본 증명이 가능합니다.
+
+TruthCam is a blockchain-based timestamped photo/video capture app. It records the hash on the blockchain immediately upon capture, enabling proof of originality.
 
 ---
 
