@@ -26,6 +26,28 @@ Batch verification tool for verifying multiple photos at once.
 - CSV 내보내기 / CSV export
 - 블록체인 검증 결과 확인 / Blockchain verification results
 
+### Installation
+
+#### Windows
+Windows에서 설치 시 "Windows의 PC 보호" 경고가 표시될 수 있습니다.
+
+When installing on Windows, you may see a "Windows protected your PC" warning.
+
+1. **"추가 정보" 클릭** / Click **"More info"**
+2. **"실행" 클릭** / Click **"Run anyway"**
+
+> 이 경고는 코드 서명 인증서가 없는 새 앱에서 표시됩니다. TruthScan은 안전한 오픈소스 앱입니다.
+>
+> This warning appears for new apps without a code signing certificate. TruthScan is a safe, open-source app.
+
+#### macOS
+macOS에서 "확인되지 않은 개발자" 경고가 표시될 경우:
+
+If you see an "unidentified developer" warning on macOS:
+
+1. **시스템 설정 > 개인정보 보호 및 보안** 이동 / Go to **System Settings > Privacy & Security**
+2. **"확인 없이 열기" 클릭** / Click **"Open Anyway"**
+
 ---
 
 ## TruthDesk
